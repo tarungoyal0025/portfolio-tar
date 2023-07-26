@@ -63,14 +63,6 @@ function NavTop() {
           <Nav className="navtop-list ms-auto">
             <Nav.Link className="pe-3">
               <NavLink
-                to="/"
-                className={({ isActive }) => (isActive ? "active" : "")}
-              >
-                Home
-              </NavLink>
-            </Nav.Link>
-            <Nav.Link className="pe-3">
-              <NavLink
                 to="/about"
                 className={({ isActive }) => (isActive ? "active" : "")}
               >
