@@ -58,8 +58,7 @@ function About() {
           <p>
             Thank you for visiting my portfolio. I look forward to engaging in
             discussions and exploring opportunities that align with my interests
-            and aspirations. in simple english which will be understood by
-            everyone
+            and aspirations.
           </p>
         </div>
       </Container>
