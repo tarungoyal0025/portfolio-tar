@@ -63,13 +63,8 @@ function About() {
           &nbsp
               &nbsp
               &nbsp
-              <p>
+              &nbsp
                 &nbsp
-                &nbsp
-                &nbsp
-                &nbsp
-                &nbsp
-              </p>
         </div>
       </Container>
     </>
