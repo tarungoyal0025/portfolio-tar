@@ -60,6 +60,16 @@ function About() {
             discussions and exploring opportunities that align with my interests
             and aspirations.
           </p>
+          &nbsp
+              &nbsp
+              &nbsp
+              <p>
+                &nbsp
+                &nbsp
+                &nbsp
+                &nbsp
+                &nbsp
+              </p>
         </div>
       </Container>
     </>
