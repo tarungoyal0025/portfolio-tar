@@ -79,7 +79,7 @@ function Skills() {
               ></i>
               <i
                 class="devicon-nodejs-plain-wordmark colored"
-                title="Netlify"
+                title="Node JS"
               ></i>
 
              
