@@ -56,7 +56,7 @@ function NavTop() {
       <Navbar className="navtop py-3" expand="lg">
         <Container fluid className="px-4">
           <Navbar.Brand className="navtop-brand">
-            <Link to="/">
+            <Link to="/portfolio-tar">
               Tarun<i id="normal"> Goyal</i>
             </Link>
           </Navbar.Brand>
