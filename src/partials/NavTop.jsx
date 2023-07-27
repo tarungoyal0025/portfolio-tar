@@ -26,11 +26,14 @@ function NavTop() {
               <GrClose />
             </button>
             <div className="menu-list">
-              <NavLink to="/" onClick={toogleClose}>
+              <NavLink to="/portfolio-tar" onClick={toogleClose}>
                 Home
               </NavLink>
               <NavLink to="/about" onClick={toogleClose}>
                 About
+              </NavLink>
+              <NavLink to="/experience" onClick={toogleClose}>
+                Experience
               </NavLink>
               <NavLink to="/skills" onClick={toogleClose}>
                 Skills
