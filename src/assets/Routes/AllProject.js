@@ -9,6 +9,15 @@ const allProjects = [
     techStack: ["Mern Stack"],
   },
   {
+    title: "SOCH",
+    img: require("../img/Project3.png"),
+    description:
+      "SOCH is a NGO with a mission to stop child labour and  protect and promote the rights of children.",
+    websiteUrl: "https://tarungoyal0025.github.io/soch",
+    githubUrl: "https://github.com/tarungoyal0025/soch",
+    techStack: ["ReactJS"],
+  },
+  {
     title: "TShoppee",
     img: require("../img/Project2.png"),
     description:
@@ -16,6 +25,15 @@ const allProjects = [
     websiteUrl: "",
     githubUrl: "https://github.com/tarungoyal0025/TShoppee",
     techStack: ["Mern Stack"],
+  },
+  {
+    title: "Recipe Dhundho",
+    img: require("../img/Project8.png"),
+    description:
+      "Explore a world of culinary delights on Recipe Dhundho, featuring a user-friendly search function, regional sorting, and a diverse range of dishes for every palate.",
+    websiteUrl: "https://tarungoyal0025.github.io/RecipeDhundho/",
+    githubUrl: "https://github.com/tarungoyal0025/RecipeDhundho",
+    techStack: ["HTML", "CSS","JS"],
   },
 
   {
